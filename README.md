@@ -11,7 +11,7 @@ This repository focus on the research on human action prediction technology base
 
 ## Data Preparation
 
-- Please follow the steps in the original [Infogcn] (https://github.com/stnoah1/infogcn) repository to complete the preparation of the skeleton dataset **NTU**.
+- Please follow the steps in the original [Infogcn](https://github.com/stnoah1/infogcn) repository to complete the preparation of the skeleton dataset **NTU**.
 - For action prediction, we use the code in the `seg_1` suffix for dataset segmentation. Specifically, the hyperparameter `prediction_ratio` controls the split ratio. The data is split and saved proportionally in `get_raw_denoised_data.py` after denoising.
 
 ## Training & Testing
