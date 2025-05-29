@@ -1,0 +1,120 @@
+drink water; head tilts back slightly; hand holds cup near mouth; arm stabilizes cup; hip shifts forward more; leg bends further; foot starts to lift.
+eat meal; head moves up and down; hand brings food to mouth; arm extends fully; hip leans forward more; leg shifts weight more; foot pushes off floor.
+brush teeth; head moves from side to side; hand moves toothbrush back and forth; arm flexes and extends; hip rotates slightly; leg shifts weight; foot lifts off floor.
+brush hair; head is tilted forward and to the side; hand is moving brush through hair with gentle strokes; arm is moving in a circular motion; hip is slightly rotated to the side; leg is slightly bent at the knee; foot is planted firmly.
+drop; head falls further down; hands lift higher; arms extend fully; hips tilt more; legs bend at knees; feet reach maximum height.
+pick up; head looks down slightly; hand closes around; arm flexes; hip shifts forward; leg lifts slightly; foot lifts off.
+throw; head turns to target; hand releases object; arm swings back; hip rotates more; leg starts to lift; foot starts to lift off ground.
+sit down; head looks down intensely; hand moves to thigh; arm pulls back further; hip bends almost fully; leg lifts almost vertical; foot slides back almost to seat.
+stand up; head straightens; hands move to hips; arm lifts to support; hip lifts body high; leg straightens at hip; foot swings forward, preparing.
+clapping; head still tilted forward; hands clapping palms together; arms swinging down and up; hip swaying more pronounced; legs tapping feet with increased force; feet still flat on ground
+reading; head is tilted forward and to the left; hand is moving slowly along line of text; right arm is bent and holding book at an angle; hips are leaning forward with slight rotation; legs are uncrossing at ankles; feet are shifting weight onto the balls of the feet.
+writing; head is still tilted forward; right hand is moving pen in smooth strokes; right arm is moving in a controlled arc; hips are leaning forward more noticeably; legs are bending more deeply; feet are shifting weight to support.
+tear up paper; head is tilted slightly to the side; hand is applying force to tear; arm is extended; hip is rotated more forward; leg is bending more; foot is shifting weight.
+put on jacket; head turns to guide jacket; hand slides jacket over shoulder; arm pulls jacket down; hip rotates to accommodate; leg bends slightly; foot shifts weight forward.
+take off jacket; head tilts back slightly; hands pull jacket; arms straighten as jacket lifts; hip steps back; legs straighten; feet shift back.
+put on a shoe; head looks down; hand lifts shoe off the ground; arm holds shoe up; hip begins to shift forward; leg straightens, lifting foot up; foot is held in hand.
+take off a shoe; head tilts forward; hand wraps around shoe; arm pulls shoe off; hip starts to shift; leg straightens; foot lifts shoe off
+put on glasses; head move forward slightly; hand rotate glasses; arm extend and move up; hip stay stationary; leg stay stationary; foot stay stationary.
+take off glasses; head tilts forward further; hand grasps glasses frame; arm flexes elbow; hip starts to lean forward; leg starts to shift weight; foot taps slightly forward.
+put on a hat/cap; head tilts back slightly; hand guides hat onto head; arm adjusts hat's position; hip remains neutral; leg shifts weight evenly; foot remains stationary.
+take off a hat/cap; head moves forward; hand twists hat; arm lifts hat; hip starts to shift; leg begins to move; foot lifts off ground
+cheer up; head tosses back slightly; hand moves up and out to the side; arm extends and bends at elbow; hip sways more noticeably; leg lifts off ground slightly; foot taps on ground with more force.
+head nodding slightly; hand waving high; arm extended; hip swaying more; leg moving slightly; foot tapping gently
+kicking something; head still focused; hands maintain grip; arm extends further; hip swings more; leg lifts higher; foot extends.
+reach into pocket; head tilts forward; hand moves further down; arm extends and bends; hip starts to shift forward; leg remains stationary; foot remains stationary.
+hopping; head remains still; arm swings forward; hip rotates; leg extends; foot suspends; foot prepares to land.
+jump up; head extends forward; hands swing forward; arms bent at elbows; hip rotates; legs lift higher; feet reach maximum height
+phone call; head tilts slightly forward; hand holds phone close to ear; arm flexes to support phone; hip shifts weight more noticeably; leg starts to cross; foot taps on ground.
+play with phone/tablet; head moving slightly from side to side; hand scrolling or tapping; arm moving up and down; hip leaning forward more; leg shifting weight to one side; foot tapping more noticeably.
+type on a keyboard; head nodding slightly with focus; hand moving fingers over the keys; arm straightening and extending; hip leaning forward more; leg shifting weight onto the heel; foot tapping with the toes.
+point to something; head turns fully; hand is steady and pointing; arm is fully extended and finger is pointing; hips are fully turned towards the object; leg on the same side as the pointing arm is bent and foot is pointing towards the object; opposite leg is straight and foot is pointing away from the object.
+taking a selfie; head holds steady; hand frames face; arm is bent at 90 degrees; hip is shifted forward; leg starts to bend at knee; foot starts to lift off ground.
+check time; head tilts slightly down; hand grasps watch; arm holds steady; hip sways slightly; leg shifts weight; foot taps ground again
+rub two hands; head still tilted; hands rub palms together in front of face; arms are extended and hands moving in circular motion; hips start to sway slightly; legs are still apart; feet are flat on the ground.
+nod head/bow; head tilt forward fully at the neck; hand almost touch forehead; arm extend forward and down; hip shift forward and slightly bend; leg shift forward and slightly bend; foot lift off ground and move forward.
+shake head; head shake rapidly; hand lift higher; arm swing more; hip sway slightly; leg sway slightly; foot tap slightly.
+wipe face; head turns slightly to the side; hand approaches nose with palm facing down; arm extends and flexes at wrist; hip remains stationary; leg remains stationary; foot remains stationary.
+salute; head is still lowered; hand is still touching forehead; arm is still extended; hips are level; legs are slightly bent; feet are still together.
+put palms together; head slightly turns down; hand presses palms together firmly; arm extends fully forward; hip remains stationary; leg remains stationary; foot remains stationary.
+cross hands in front; head turns slightly downward; hands rest at chest level; arms relax slightly; hip remains stationary; leg starts to shift forward; foot shifts weight slightly forward.
+sneeze/cough; head will suddenly jerk forward and their chin will lower; hand quickly withdraws from face; arm still raised but starts to lower; hip shifts forward and rotates slightly; leg straightens and prepares to lift; foot starts to lift off the ground.
+staggering; head is correcting itself; hand is releasing grip; arm is flailing; hip is swaying wildly; leg is stumbling; foot is trying to regain balance.
+falling down; head hits the ground; hand tries to cushion fall; arm absorbs shock; hip twists to side; leg bends at knee; foot digs into ground.
+head rubbing firmly; hand kneading; arm straightened; hip swaying; leg rotating; foot tapping fast.
+chest pain; head drops forward; hand releases grip; arm falls limp; hip sags slightly; leg bends more; foot lifts off ground.
+back pain; head is lowered; hand is rubbing lower back; arm is flexed; hip is rotated; leg is bent; foot is lifted off ground.
+neck pain; head is rotating further; hand is massaging; arm is extended; hip is leaning; leg is straight; foot is lifting.
+nausea/vomiting; head is bent forward and down; hands are on stomach and mouth; arms are bent at elbows and forward; hip is bent and twisted; legs are bent and lifted; feet are off ground.
+fan self; head tilts back further; hand moves in arc; arm extends fully; hip shifts more; leg lifts slightly; foot lifts off floor.
+punch/slap; head leads with the punch; hand makes contact; arm extends fully; hip rotates for power; leg drives through the punch; foot lifts off the ground.
+kicking; head: focuses on the target; hand: follows through; arm: stabilizes the body; hip: generates force; leg: extends backward; foot: makes contact with the ball.
+pushing; gaze remains fixed; hand maintains force; arm extends fully; hip shifts forward; leg pivots more; foot glides smoothly.
+pat on back; head returns to neutral position; hand moves down and away from back; arm flexes and returns to side; hip remains stationary; leg remains stationary; foot remains stationary.
+point finger; head turns slightly; hand points index finger; arm extends fully and rotates; hip starts to shift; leg starts to shift; foot shifts weight.
+hugging; head leans further onto shoulder; hand pulls self in; arm tightens grip; hip sways slightly; leg lifts off ground; foot lifts off foot.
+giving object; looks down slightly; hand extends fully; arm straightens fully; hip shifts forward significantly; leg moves forward slightly; foot moves forward slightly.
+touch pocket; head remains neutral; hand feels in pocket; arm flexes more deeply; hip shifts forward slightly more; leg starts to shift back; foot remains stationary.
+shaking hands; head turns slightly towards; hand grasps other person's hand firmly; arm extends fully from shoulder; hip remains stationary; leg shifts weight slightly; foot taps slightly on ground.
+walking towards; head steady gaze; hands swinging more; arms swinging more; hips swaying more; legs striding; feet alternating
+walking apart; head is still looking forward; hand is swinging with steady pace; arm is swinging with steady pace; hip is shifting weight evenly; leg is taking another step apart; foot is pushing off ground.
+put on headphone; head turns more to access headphone; hand adjusts grip on headphone; arm brings headphone to ear; hip shifts forward more; leg lifts more; foot lifts off ground.
+take off headphone; head looks down, eyes focus on jack; hand grasps headphone jack; arm rotates, wrist flexes; hip starts to rotate; leg starts to shift; foot lifts off floor.
+shoot at basket; eyes follow through; brings hand back to shooting position; extends arm to release the ball; transfers weight from back to front hip; straightens leg to propel forward; lifts foot off the ground.
+bounce ball; head looks down intensely; hand pulls ball back; arm extends and cocked; hip shifts and twists; leg lifts and swings; foot leaves ground.
+tennis bat swing; head is tracking; hand is firm; arm is swinging back; hip is rotating further; leg is transferring weight; foot is pushing off.
+juggle table tennis ball; head tracks the ball's trajectory; hand catches the ball; arm absorbs the impact; hip rotates further to the left; leg transfers weight to the right; foot pushes off the ground
+hush; head nods slightly; hand touches lips; arm is bent at the elbow; hip shifts forward; leg starts to shift weight; foot taps floor gently.
+flick hair; head jerk more; hand release hair; arm flex elbow; hip stay still; leg stay still; foot stay still.
+thumb up; head looks forward; hand holds high; arm slightly bends; hip doesn't move; leg doesn't move; foot doesn't move.
+thumb down; head lowers slightly; hand extends and points down; arm straightens; hip tilts forward slightly; leg begins to shift weight; foot starts to lift off the ground
+make OK sign; head turns slightly up and forward; hand forms a circle with thumb and first two fingers; arm extends straight out from shoulder; hip remains at a neutral position; leg remains at a neutral position; foot remains at a neutral position.
+make victory sign; head looks up higher; hand curls into fist fully; arm extends fully; hip shifts slightly forward; leg lifts slightly; foot lifts off ground.
+staple book; head looks down at staple; hand presses staple gun; arm applies pressure to staple gun; hip leans forward more; leg bends slightly; foot shifts weight.
+counting money; head focused on bills; hand holding one bill; arm straightening; hip rotating slightly; leg shifting weight; foot tapping more pronounced.
+cutting nails; head focused on hands; hand moving up and down, clipping; arm moving in small circles; hip rotating slightly; leg shifting weight; foot tapping slightly.
+cutting paper; head focused on paper; hand moving scissors up and down; arm moving scissors in a sawing motion; hip leaning forward more; leg bending slightly; foot pushing off slightly.
+snap fingers; head turns slightly to the side; hands move quickly to meet in the middle; arm extends slightly; hip remains stationary; leg remains stationary; foot remains stationary.
+open bottle; head tilts back slightly; hand applies pressure to the cap; arm flexes and extends; hip shifts forward; leg shifts forward; foot lifts off ground.
+sniff/smell; head moves up and down slightly; hand moves object closer to nose; arm flexes elbow slightly; hip remains stationary; leg remains stationary; foot remains stationary.
+Squat down; head looks down slightly; hands maintain grip; arms flex slightly; hip lowers further; leg almost parallel to ground; foot lifts off ground.
+toss a coin; head looks forward; hand brings coin forward; arm extends forward; hip slightly tilts forward; leg remains stationary; foot remains stationary.
+fold paper; head remains tilted; hand creases paper; arm bends at elbow; hip shifts slightly forward; leg starts to shift; foot taps slightly.
+ball up paper; head remains focused; hand forms fist; arm flexes at elbow; hip tilts forward slightly more; leg starts to shift weight; foot lifts off floor
+play magic cube; head is still looking at the cube; hand is rotating the cube; arm is rotating the cube; hip is swaying more; leg is slightly shifting weight; foot is tapping the ground.
+apply cream on face; head looks down; hand approaches face; arm flexes; hip slightly sways; leg shifts weight; foot taps floor.
+apply cream on hand; head looks down; hand brings cream to hand; arm flexes at elbow; hip slightly shifts; leg none; foot none.
+put on bag; head looks down; hand pulls bag strap; arm lifts bag to shoulder; hip moves forward and slightly turns; leg lifts and starts to swing; foot swings with leg
+take off bag; head looks up slightly; hand adjusts grip on handles; arm lifts bag to chest level; hip shifts weight fully to other leg; leg takes a bigger step back; foot moves back further.
+put object into bag; head focused; hand holding; arm inserting; hip rotating; leg shifting; foot steady.
+take object out of bag; head nods forward; hand grasps object; arm pulls object out; hip rotates more; leg starts to lift; foot lifts off ground.
+open a box; head tilts forward and down; hand applies pressure to the lid; arm continues to extend and rotate; hip leans forward and rotates; leg lifts off the ground; foot starts to move backward.
+move heavy objects; head stays focused; hand maintains grip; arm extends fully; hip drives forward; leg pushes harder; foot digs deeper.
+shake fist; head slightly tilt; hand curl into fist and raise high; arm swing forward and backward; hip stay in place; leg stay in place; foot stay in place.
+throw up cap/hat; head is fully back and eyes are closed; hand is lifting hat off; arm is straightening up; hip is rotating slightly; leg is shifting weight; foot is transferring weight.
+capitulate; head hangs low; hand falls limp; arm dangles; hip drops heavily; leg collapses; foot drags slowly.
+cross arms; head turns slightly more; hand presses hand; arm holds position; hip remains still; leg remains still; foot remains still.
+arm circles; head follows arm movement; hand releases and regrasps; arm swings wider; hip sways more noticeably; leg sways more noticeably; foot taps more noticeably.
+arm swings forward again; head follows arm movement; hand grips elbow; arm swings in a circle; hip rotates more; leg starts to sway; foot taps ground.
+run on the spot; head nodding rapidly; hands pumping forward; arms swinging widely; hips rotating freely; legs lifting higher; feet stomping quickly.
+butt kicks; head starts to look up; hand releases grip; arm extends; hip extends leg; leg extends and then flexes; foot makes contact with target, then returns.
+cross toe touch; head starts to lift; hand reaches for opposite toe; arm extends fully forward; hip starts to rotate; leg reaches peak lift; foot touches opposite toe
+side kick; head turns slightly; hand shifts weight; arm extends fully; hip rotates fully; leg swings back; foot flexes up
+yawn; head stretches back and up; hand opens mouth; arm extends up and out; hip tilts forward more; leg straightens; foot flexes slightly.
+stretch oneself; tilts head back; raises hands; stretches arms; leans forward; bends knees; foot points toes.
+blow nose; head tilts forward further; hand blows nose gently; arm bends slightly; hip leans forward more; leg starts to shift back; foot lifts off floor.
+hit with object; head follow; hand release; arm extend; hip twist; leg stride; foot lift
+wield knife; eyes follow knife's trajectory; hand adjusts grip; arm begins to swing; hip rotates slightly; leg starts to pivot; foot shifts weight.
+knock over; head extends back; hand lifts object; arm straightens; hip shifts forward; leg lifts high; foot swings forward.
+grab stuff; head focuses on object; hand wraps around object; arm flexes elbow; hip shifts forward; leg begins to bend; foot starts to lift.
+shoot with gun; head eyes on target; hand takes aim; arm holds steady; hip rotates slightly to compensate; leg straightens knees; foot transfers weight onto heel
+step on foot; head is steady; hands are grasping; arms are extended; hips are rotated; legs are straight; feet are landing.
+high-five; head looks up fully; hand moves up high; arm extends fully; hip shifts forward; leg bends slightly; foot lifts off ground
+cheers and drink; head continues to tilt back; hand brings glass to lips; arm extends fully; hip leans back slightly; leg bends more; foot lifts off ground.
+carry object; head looks ahead; hand adjusts grip; arm holds steady; hip rotates more; leg takes step forward; foot lifts off ground.
+take a photo; head aligns eyes with viewfinder; hand releases shutter button; arm extends fully to the right; hip shifts further to the right; leg lifts off the ground; foot starts to swing forward
+follow; turns head; waves hand; swings arm; shifts weight; takes step; lifts foot.
+whisper; head leans in closer to listener; hand moves closer to mouth; arm extends further; hip shifts forward more; leg starts to move forward; foot lifts off ground slightly.
+exchange things; maintains eye contact; hands object to the other person; straightens arm to release object; sways hips slightly to balance; takes a small step backward; puts foot back down slowly
+support somebody; head stabilizes position; hand holds firm grip; arm provides support; hip shifts weight forward; leg bends slightly; foot digs into ground.
+rock-paper-scissors; looks up slightly; moves hand to palm up; straightens arm; sways hip more; shifts weight on both legs; taps foot slightly.

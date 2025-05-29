@@ -1,0 +1,120 @@
+drink water; head tilts back slightly; hand reaches for cup; arm extends and flexes; hip remains stationary; leg remains stationary; foot remains stationary.
+eat meal; head tilts slightly forward; hand approaches plate; arm extends slightly; hip remains stationary; leg remains stationary; foot remains stationary.
+brush teeth; head tilts forward slightly; hand brings toothbrush up to mouth; arm extends forward; hip remains stationary; leg remains stationary; foot remains stationary.
+brush hair; head is tilted slightly forward; hand is grasping hairbrush; arm is holding hairbrush vertically; hip is stationary; leg is standing; foot is standing.
+drop; head tilts back slightly; hands raise up; arms straighten; hips shift forward; legs bend at the knees; feet lift off the ground.
+pick up; head looks down slightly; hand moves towards object; arm bends at elbow; hip doesn't move; leg doesn't move; foot doesn't move.
+throw; head looks up; hand grips object; arm cocked back; hip turns slightly; leg slightly bends; foot remains still.
+sit down; head looks down slightly; hand holds onto nearby surface for balance; arm extends forward for support; hip begins to bend; leg straightens; foot lifts off ground.
+stand up; head tilts slightly forward; hand grasps doorframe; arm extends to support body; hip flexes to lift body; leg straightens at knee and hip; foot lifts off floor.
+clapping; head slightly tilted upwards; hands moving up and apart; arms straightening and then bending; hips not moving; legs not moving; feet flat on the ground.
+reading; head is tilted slightly forward and to the left; right hand is holding the book up close to face; left arm is bent at the elbow and resting on the arm of the chair; hips are level with shoulders; legs are crossed at the ankles; feet are flat on the floor.
+writing; head is slightly tilted forward; right hand is holding a pen; left hand is holding the paper; right arm is bent at the elbow and held close to the body; hips are stationary; legs are slightly bent; feet are flat on the floor.
+tear up paper; head is focused forward; hand is reaching for the paper; arm is extended forward; hip is neutral; leg is slightly bent; feet are flat on the ground.
+put on jacket; head looks down; hand reaches up and grasps the jacket; arm brings the jacket down to level; hip slightly bends forward; leg stands still; foot stands on both feet.
+take off jacket; head tilts back slightly; grabs the bottom of jacket with both hands, brings hands up the jacket; arms straighten as the jacket falls down; hip steps out of the jacket; legs straight; feet on the ground.
+put on a shoe; head remains still; hand reaches down and grasps shoe; arm extends down and forward; hip remains stationary; leg bends at the knee, bringing foot closer to the hand; foot remains still.
+take off a shoe; head remains neutral; hand moves to the shoe; arm extends down; hip remains stationary; leg bends at the knee; foot points towards the shoe.
+put on glasses; head tilt slightly backwards; hand reach up to forehead; arm bend at elbow; hip stay stationary; leg stay stationary; foot stay stationary.
+take off glasses; head slightly tilts back; hand moves up to face; arm extends forward; hip doesn't move; leg doesn't move; foot doesn't move.
+put on a hat/cap; head turns slightly to one side; hand reaches for hat; arm extends and bends at elbow; hip remains neutral; leg remains stationary; foot remains stationary.
+take off a hat/cap; head tilts slightly forward; hand grasps the brim of the hat/cap; arm: raises the hat/cap; hip remains stationary; leg remains stationary; foot remains stationary
+cheer up; head tilts slightly forward; hand comes up to chest level with palms facing in; arm elbow is bent and held close to body; hip remains stationary; leg remains stationary; foot remains stationary.
+hand waving; head still; hand moving up; arm extending; hip stable; leg stable; foot still
+kicking something; head looks down; hands are relaxed at sides; arm is relaxed at sides; hip is slightly shifted forward; leg is bent at the knee and lifted off the ground; foot is flexed and ready to strike.
+reach into pocket; head remains neutral; hand moves towards pocket; arm extends forward and slightly downward; hip remains stationary; leg remains stationary; foot remains stationary.
+hopping; head remains still; hands hold onto hips for balance; arms relaxed by sides; hip slightly bent; leg starts to lift; foot flexes to prepare for takeoff.
+jump up; head tilts back and the chin points up; hands come up to the chest; arms bend at the elbows and the forearms come up; hips push forward and the legs bend at the knees; legs prepare to spring forward and the feet stay in place.
+phone call; head tilts slightly forward; hand reaches for phone; arm extends and bends at elbow; hip shifts weight slightly; leg relaxes; foot taps on the ground.
+play with phone/tablet; head looking down at the phone/tablet; hand holding the phone/tablet; arm holding the phone/tablet; hip keeping the body upright; leg keeping the body balanced; foot keeping the body stable.
+type on a keyboard; head slightly tilted forward; hand hovering above the keyboard; arm bent at the elbow, hand in a neutral position; hip relaxed, leaning slightly forward; leg relaxed, weight evenly distributed on both feet; foot flat on the floor.
+point to something; head turns slightly to the side; hand raises and points finger at the object; arm is extended and finger is pointing at the object; hips are steady; leg nearest to the object is straight; foot is flat on the ground.
+taking a selfie; head slightly tilts upward; hand reaches for phone in pocket; arm is bent at the elbow; hip remains neutral; leg is straight; foot is flat on the ground.
+check time (from watch); head turns to look at watch; hand raises arm to eye level; arm bends at elbow to bring watch closer to eyes; hip remains stationary; leg remains stationary; foot remains stationary
+rub two hands; head is still; hand moves towards other hand; arm is extended and hand is moving towards the other hand; hip is stationary; legs are slightly apart; feet are flat on the ground.
+nod head/bow; head tilt forward slightly at the neck; hand rest on hip; arm remain relaxed; hip remain stationary; leg remain stationary; foot remain stationary.
+shake head; head tilt to side; hand rest on shoulder; arm relaxed; hip stay in place; leg stay in place; foot stay in place.
+wipe face; head tilts slightly to the side; hand moves up from lap to face; arm extends out from body and hand approaches cheek; hip remains stationary; leg remains stationary; foot remains stationary.
+salute; head tilts back slightly; hand raises right hand and brings it to forehead; arm is extended straight out from shoulder; hips are level with shoulders; legs are straight and together; feet are together and pointing forward.
+put palms together; head remains neutral; hands move towards each other; arms extend slightly forward; hip remains stationary; leg remains stationary; foot remains stationary.
+cross hands in front; head remains stationary; hand moves across midline of body; arm extends slightly forward; hip remains stationary; leg remains stationary; foot remains stationary.
+sneeze/cough; head will tilt back slightly and their chin will raise up; bring their hand up to their face, cupping their mouth and nose; arm the person's arm will raise up to their face; hip will not move; leg will not move; foot will not move.
+staggering; head is tilting to one side; hand is outstretched in front for balance; arm is flailing outward; hip is swaying; leg is lifting off the ground; foot is not making contact with the ground.
+falling down; head tilts forward slightly; hand reaches out to regain balance; arm extends in front; hip starts to shift weight; leg bends at the knee; foot begins to lift off the ground.
+head rubbing; hand rubbing head with fingers; arm moving up and down; hip sitting; leg sitting; foot sitting.
+chest pain; head tilts forward in discomfort; hand rises to head in a defensive gesture; arm hangs limp at side; hip remains still; leg remains still; foot remains still.
+back pain; head is tilted back; hand is on lower back; arm is extended behind him; hip is flexed; leg is straight; foot is flat on the ground.
+neck pain; head is tilting to the side; hand is reaching for the back of the head; arm is extending to support the head; hip is remaining stationary; leg is remaining stationary; foot is remaining stationary.
+nausea/vomiting; head is tilted back and eyes are closed; one hand is on stomach and the other is on chest; arms are slightly bent at the elbows; hips are slightly bent; legs are slightly bent at the knees; feet are flat on the ground.
+fan self; head turns slightly to the side; hand reaches up; arm extends out and upwards; hip doesn't move; leg doesn't move; foot doesn't move.
+punch/slap; Head tilts slightly forward; Hand moves back and up to generate power; Arm is cocked back and bent at the elbow; Hip is slightly rotated to generate torque; Leg is planted firmly on the ground for stability; Foot is shoulder-width apart for balance.
+kicking; head: looks forward; hand: holds balance; arm: stabilizes the body; hip: prepares for movement; leg: bends; foot: lifts off the ground.
+pushing; tilts head slightly forward; grasps object with hand; arm extended; hip remains stationary; leg remains stationary; foot remains stationary.
+pat on back; head remains still; hand comes up from behind and moves forward; arm extends and bends at elbow; hip remains stationary; leg remains stationary; foot remains stationary.
+point finger; head keeps still; hand extends the index finger and points to the direction; arm extends the arm and points the finger; hip keeps still; leg keeps still; foot keeps still.
+hugging; head leans forward slightly; hand reaches out to grasp; arm extends forward and downward; hip moves slightly forward; leg shifts weight onto foot; foot takes a small step forward.
+giving object; head remains still; hand extends arm out; arm extends forward with slight rotation; hip remains still; leg remains still; foot remains stationary.
+touch pocket; head remains stationary; hand moves towards pocket; arm bends at elbow; hip remains stationary; leg remains stationary; foot remains stationary.
+shaking hands; head remains neutral; hand extends from the body and approaches the other person's hand; arm extends from shoulder and flexes at the elbow; hip remains stationary; leg remains stationary; foot remains stationary.
+walking towards; head looking forward; hands relaxed by sides; arms swinging at sides; hips swaying slightly; legs moving forward; feet rolling forward
+walking apart; head is looking forward; hands are by the sides; arms are relaxed; hips are slightly tilted; legs are shifting weight; feet are shifting weight from one foot to the other.
+put on headphone; head moves slightly forward as he brings the headphone up to ear; hand moves up to head, holding the headphone in place; arm moves up to head; hip moves slightly forward; leg moves slightly forward; foot stand still.
+take off headphone; head tilts slightly forward; hand moves to the headphone jack; arm straightens; hip remains still; leg remains still; foot remains still.
+shoot at basket; turns head to look at the basket; holds the ball with hand; bends arm to hold the ball; keeps hip still; leg stands still; foot stands still.
+bounce ball; head remains still; hand holds the ball; arm is slightly bent; hip is neutral; leg is slightly bent; foot is planted.
+tennis bat swing; head is looking forward; hand right hand is holding the tennis bat; arm right arm is holding the bat in front of the body; hip is standing still; leg is standing still; foot is standing still.
+juggle table tennis ball; head tilts slightly to the left; hand moves quickly to the left to catch the ball; arm extends to the left to catch the ball; hip remains stationary; leg remains stationary; foot remains stationary
+hush; head he lowers head; hand he raises index finger to lips; arm is bent at the elbow; hip is not involved in the action; leg is not involved in the action; foot is not involved in the action.
+flick hair; head tilt slightly; hand brush hair; arm move hand; hip stay still; leg stay still; foot stay still.
+thumb up; head doesn't move; hand moves up slightly; arm bends at elbow; hip doesn't move; leg doesn't move; foot doesn't move.
+thumb down; head remains stationary; hand extends arm forward with thumb pointing down; arm extends from shoulder; hip remains stationary; leg remains stationary; foot remains stationary.
+make OK sign; head remains neutral; hand forms a circle with the thumb and first two fingers; arm extends straight out from the shoulder; hip remains at a neutral position; leg remains at a neutral position; foot remains at a neutral position.
+make victory sign; head remains neutral; hand moves slightly forward and upward; arm extends fully; hip remains stationary; leg remains stationary; foot remains stationary.
+staple book; head looks down slightly; hand holds the stapler; arm extends and stabilizes the stapler; hip keeps the body stable; leg keeps the body stable; foot keeps the body stable.
+counting money; head looking down slightly; hand holding a bill; arm holding hand; hip keeping body upright; leg keeping body balanced; foot keeping body stable.
+cutting nails; head looking down at hands; hand holding a nail clipper; arm keeping the hand steady; hip keeping the body steady; leg keeping the body steady; foot keeping the body steady.
+cutting paper; head looking down at the paper; hand holding the scissors; arm holding the scissors vertically; hip staying in place; leg staying in place; foot staying in place.
+snap fingers; head remains stationary; hand moves quickly to meet the other hand in the middle and create a snapping sound; arm remains at the side; hip remains stationary; leg remains stationary; foot remains stationary.
+open bottle; head tilts slightly to the side; hand reaches for the bottle cap; arm extends the arm holding the bottle; hip remains stationary; leg remains stationary; foot remains stationary.
+sniff/smell; head tilts slightly forward; hand brings object close to nose; arm supports hand; hip remains stationary; leg remains stationary; foot remains stationary.
+Squat down; head remains upright; hand holds object or support; arm hangs loosely at sides; hip starts to bend; leg begins to bend at knees; foot remains flat on ground.
+toss a coin; head remains still; hand opens and closes to hold the coin; arm holds the coin in front of the body; hip remains stationary; leg remains stationary; foot remains stationary.
+fold paper; head looks down slightly at the paper; hand reaches for the paper with fingers extended; arm is slightly bent at the elbow; hip is relaxed; leg is relaxed; foot is planted on the ground.
+ball up paper; head remains stationary; hand moves towards paper; arm extends straight; hip remains stationary; leg remains stationary; foot remains stationary
+play magic cube; head is looking at the cube in hand; hand is holding the cube in hand; arm is holding the cube out in front of the body; hip is slightly bending; leg is standing still; foot is standing still.
+apply cream on face; head tilts forward; hand reaches up; arm flexes; hip stays stationary; leg stays stationary; foot stays stationary.
+apply cream on hand; head none; hand picks up cream from container; arm flexes to bring hand towards hand; hip none; leg none; foot none.
+put on bag; head looks down at bag; hand reaches out; arm extends forward; hip remains still; leg remains still; foot remains still.
+take off bag; head looks down at the bag; hand reaches down and grabs the bag's handles; arm lifts the bag off the ground; hip shifts the bag's weight to other hand; leg stands still; foot stands still.
+put object into bag; head looking down; hand reaching for object; arm extending; hip slightly bending; leg keeping body stable; foot keeping body stable.
+take object out of bag; head is tilted slightly forward as he looks down into the bag; hand reaches into the bag and grasps the object; arm bends at the elbow; hip is stable; leg is slightly bent; foot is planted firmly on the ground.
+open a box; head tilts slightly forward; hand reaches out and grasps the edge of the lid; arm extends forward; hip remains stationary; leg remains stationary; foot remains stationary.
+move heavy objects; head turns to look at the object; hand reaches out and grasps the object; arm pulls the object towards the body; hip moves forward to create leverage; leg pushes against the ground to create power; foot stabilizes the body.
+shake fist; head stay still; hand curl into a fist; arm flex at the elbow and lift up; hip stay in place; leg stay in place; foot stay in place.
+throw up cap/hat; head is tilted back and eyes are closed; hand is reaching up to grab the hat; arm is extended straight up; hip is not involved in the action; leg is not involved in the action; foot is not involved in the action.
+capitulate; head drops slightly in defeat; hand raises in the air; arm hangs limply at side; hip sags; leg buckles; foot drags.
+cross arms; head remains still; right hand moves to the opposite shoulder, left hand moves to the other shoulder; right arm bends at the elbow, left arm also bends at the elbow; hip remains at a neutral position; leg both legs remain straight; foot both feet remain flat on the ground.
+arm circles; head remains stationary; hand holds the arm; arm moves in a circular motion; hip remains stationary; leg remains stationary; foot remains stationary.
+arm swings; head remains stationary; hand holds the arm; arm swings forward and backward; hip remains stationary; leg remains stationary; foot remains stationary.
+run on the spot; head nodding up and down; hand swinging back and forth; arm pumping back and forth; hip thrusting back and forth; leg kicking back and forth; foot stomping back and forth.
+butt kicks; head remains neutral; hand holds onto a support; arm remains relaxed; hip begins to rotate; leg lifts off the ground; foot flexes at ankle.
+cross toe touch; head remains neutral; hand reaches out and down to touch the opposite foot's toes; arm extends out and down; hip remains stationary; leg lifts up and bends at the knee to prepare for the movement; foot remains stationary.
+side kick; head remains neutral; hand holds the balance; arm relaxes by the side; hip starts to rotate; leg lifts the knee up; foot flexes the ankle.
+yawn; head tilts back; hand comes to mouth; arm supports head; hip doesn't move; leg doesn't move; foot doesn't move.
+stretch oneself; tilts head back; raises hands to crown of head; extends arms overhead; lifts hips; straightens legs; foot points toes.
+blow nose; head tilts forward slightly; hand brings tissue to nose; arm supports head; hip doesn't move; leg doesn't move; foot doesn't move.
+hit with object; head slightly tilt; hand grip object; arm lift; hip stabilize; leg stand; foot planted.
+wield knife; turns head to look at the knife; grasps it in hand; arm raises it up; hip remains still; leg stands firm; foot planted on the ground.
+knock over; head tilt slightly to the side; hand holds object; arm extended holding object; hip stable; leg stable; foot stable.
+grab stuff; head remains neutral; hand moves slightly towards the object; arm extends slightly; hip remains stationary; leg remains stationary; foot remains stationary.
+shoot with gun; head tilts slightly forward; hand grips gun with fingers; arm holds gun with elbow slightly bent; hip stands with feet shoulder-width apart; leg stands with knees slightly bent; foot stands flat on ground.
+step on foot; head is forward; hands are relaxed; arms are at sides; hips are level; legs are bent; foot is raised.
+high-five; head remains still; hand lifts slightly off the body; arm extends up and out to the side; hip remains stationary; leg remains stationary; foot remains stationary.
+cheers and drink; head tilts back slightly; hand raises glass; arm holds glass vertically; hip remains stationary; leg remains stationary; foot remains stationary.
+carry object; head looks down; hand reaches out; arm extends forward; hip stabilizes; leg stands still; foot stands still.
+take a photo; head tilts slightly to the left; hand holds the camera up to the right eye; arm extends straight out to the right; hip remains neutral; leg remains stationary; foot remains stationary
+follow; turns head; extends arm; moves hip; straightens leg; lifts foot.
+whisper; head leans slightly towards the person being spoken to; hand moves to mouth to form an 'o' shape; arm extends slightly to bring hand closer to mouth; hip remains neutral; leg remains still; foot remains still.
+exchange things; looks down at the object to be exchanged; extends hand to grasp the object; holds arm straight out in front of the body; slightly tilts hip to maintain balance; stands still on both feet; stands still on both feet.
+support somebody; head turns slightly towards the person being supported; hand reaches out to grasp the person's arm; arm extends from the body to reach the person; hip shifts slightly to maintain balance; leg stands upright; foot stands flat on the ground.
+rock-paper-scissors; tilts head slightly; extends hand forward; flexes arm at the elbow; shifts hip slightly to the right; stands still on leg; stands still on foot.

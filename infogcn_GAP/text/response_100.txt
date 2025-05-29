@@ -1,0 +1,120 @@
+drink water; head returns to normal; hand releases cup; arm lowers cup; hip returns to neutral; leg lowers to floor; foot returns to neutral.
+eat meal; head returns to neutral; hand swallows food; arm returns to rest; hip remains stationary; leg remains stationary; foot remains stationary.
+brush teeth; head returns to neutral position; hand releases toothbrush; arm retracts; hip returns to neutral position; leg returns to neutral position; foot returns to floor.
+brush hair; head is tilted forward and to the side; hand is moving brush through hair with forceful strokes; arm is moving in a circular motion with maximum speed; hip is fully rotated to the side; leg is straightening and shifting weight onto the other foot; foot is lifting off the ground.
+drop; head fully drops; hands release object; arms relax; hips fully tilted; legs fully extended; feet hit ground.
+pick up; head remains still; hand lifts up; arm extends fully; hip returns to neutral; leg returns to neutral; foot remains still.
+throw; head follows arm movement; hand releases object; arm extends forward; hip rotates fully; leg extends forward; foot extends forward, releases.
+sit down; head looks down; hand rests on thigh; arm hangs loose; hip is bent; leg is bent; foot rests on seat.
+stand up; head looks forward; hands release hips; arm relaxes; hip remains steady; leg extends fully; foot stands flat on floor.
+clapping; head still tilted forward; hands clapping palms together with maximum force; arms swinging down and up with maximum amplitude; hip swaying with maximum flexion; legs tapping feet with maximum force and knee bend; feet still flat on ground
+reading; head is nodding slightly with each sentence completion; hand is moving quickly along line of text; right arm is bent and holding book at a 45-degree angle with slight lowering; hips are leaning forward with slight rotation and weight shift; legs are uncrossing at ankles and shifting weight onto the heels; feet are flat on the floor with weight evenly distributed.
+writing; head is still tilted forward; right hand is moving pen in final strokes; right arm is extending and relaxing; hips are returning to neutral position; legs are straightening; feet are flat on the floor.
+tear up paper; head is looking down intensely; hand is ripping the paper; arm is straightened; hip is fully rotated forward; leg is fully bent; foot is pushing off ground.
+put on jacket; head nods to complete; hand secures zipper; arm relaxes; hip stands straight; leg stands still; foot stands on both feet.
+take off jacket; head turns forward; hands release jacket; arms swing forward; hip straightens; legs straighten; feet move apart.
+put on a shoe; head looks down; hand releases shoe; arm returns to side; hip returns to neutral position; leg straightens, standing upright; foot is now fully in shoe.
+take off a shoe; head looks down; hand releases shoe; arm lowers shoe; hip returns to neutral; leg extends straight; foot sets shoe down
+put on glasses; head move forward slightly; hand release glasses and return to side; arm relax and return to side; hip stay stationary; leg stay stationary; foot stay stationary.
+take off glasses; head moves forward and up; hand pulls glasses off nose and away; arm extends fully and returns to side; hip returns to neutral position; leg returns to neutral position; foot returns to ground.
+put on a hat/cap; head finalizes hat's position; hand drops down; arm relaxes; hip remains neutral; leg remains neutral; foot returns to original position.
+take off a hat/cap; head straightens; hand releases hat; arm lowers; hip returns to normal; leg returns to normal; foot returns to normal
+cheer up; head tosses back and forth repeatedly; hand moves up and out to the side with palms facing out, then returns to starting position; arm extends and bends at elbow, then returns to starting position; hip sways dramatically; leg lifts off ground and moves up and down rapidly; foot taps on ground with high force and speed.
+head smiling; hand waving down; arm returning; hip swaying naturally; leg relaxing; foot stopping
+kicking something; head follows through; hands release tension; arm returns to relaxed state; hip returns to neutral; leg extends for impact; foot strikes target.
+reach into pocket; head returns to neutral; hand withdraws from pocket; arm retracts and flexes; hip returns to neutral; leg returns to neutral; foot lowers to ground.
+hopping; head remains still; arm returns to side; hip stabilizes; leg straightens; foot pushes off again; foot prepares to repeat.
+jump up; head lands with bent knees; hands absorb impact; arms bend to absorb shock; hip absorbs impact; legs bend to absorb shock; feet touch ground softly
+phone call; head nods and tilts; hand holds phone away from ear; arm relaxes; hip returns to neutral position; leg uncrosses; foot taps on ground and releases.
+play with phone/tablet; head moving with increased intensity; hand releasing phone/tablet; arm relaxing; hip returning to upright position; leg shifting weight evenly; foot standing still.
+type on a keyboard; head nodding with focus; hand moving fingers rapidly and accurately; arm straight and steady; hip leaning forward with each keystroke; leg straightening and lifting the foot off the floor; foot tapping with the heel and then returning to the floor.
+point to something; head maintains position; hand is still pointing; arm is steady and finger is pointing; hips are steady and facing the object; leg on the same side as the pointing arm is steady and foot is pointing towards the object; opposite leg is steady and foot is pointing away from the object.
+taking a selfie; head looks down at phone; hand snaps photo; arm is bent at 90 degrees; hip is fully forward; leg is bent at knee; foot is lifted off ground.
+check time; head returns to normal; hand returns to side; arm returns to neutral; hip returns to neutral; leg stands steady; foot remains still
+rub two hands; head still tilted; hands rub palms together in front of face; arms are extended and hands moving in circular motion; hips sway more noticeably; legs shift weight and move slightly forward; feet lift off ground.
+nod head/bow; head return to upright position; hand return to original position; arm return to original position; hip return to neutral; leg return to neutral; foot return to original position.
+shake head; head shake strongly; hand lift highest; arm swing fully; hip sway fully; leg sway fully; foot tap strongly.
+wipe face; head turns to the side so that cheek is facing hand; hand comes up to cheek and wipes from the bottom of eye down to jawline; arm extends out from body and hand moves across face; hip remains stationary; leg remains stationary; foot remains stationary.
+salute; head is fully lifted; hand is withdrawn; arm is bent; hips are level; legs are straight; feet are together.
+put palms together; head remains stationary; hand holds palms together; arm holds position; hip remains stationary; leg remains stationary; foot remains stationary.
+cross hands in front; head remains neutral; hands release each other; arms relax fully; hip rotates fully forward; leg straightens fully; foot returns to ground.
+sneeze/cough; head will relax and return to normal position; hand fully lowered and relaxed; arm returns to its original position; hip returns to its original position; leg straightens and returns to its original position; foot touches the ground and relaxes.
+staggering; head is falling forward; hand is grasping for air; arm is flailing wildly; hip is lurching heavily; leg is stumbling wildly; foot is crashing to ground.
+falling down; head comes to rest; hand releases; arm extends; hip absorbs impact; leg straightens; foot comes to rest.
+head rubbing intensely; hand squeezing; arm extended; hip swaying heavily; leg rotating fully; foot tapping strongly.
+chest pain; head falls forward; hand clutches tightly; arm collapses; hip drops heavily; leg bends deeply; foot slumps to ground.
+back pain; head is raised; hand is releasing lower back; arm is flexed; hip is flexed; leg is straight; foot is flat on the ground.
+neck pain; head is releasing; hand is releasing; arm is relaxed; hip is returning; leg is lowering; foot is placing.
+nausea/vomiting; head is bent forward and down; hands are on stomach and mouth; arms are bent at elbows and forward; hip is bent and twisted; legs are bent and lifted, knees bent; feet are off ground, toes curled, and then lifted up.
+fan self; head returns to normal; hand releases fan; arm returns to side; hip returns to neutral; leg returns to neutral; foot returns to floor.
+punch/slap; head returns to neutral; hand returns to chamber; arm recovers to guard; hip resets to neutral; leg resets to neutral; foot remains planted.
+kicking; head: follows through; hand: relaxes; arm: returns to neutral; hip: releases tension; leg: returns to standing; foot: lands softly.
+pushing; gaze remains fixed; hand releases object; arm retracts fully; hip returns to neutral; leg returns to neutral; foot touches ground.
+pat on back; head remains still; hand returns to original position; arm relaxes and hangs loose; hip remains stationary; leg remains stationary; foot remains stationary.
+point finger; head turns fully; hand holds steady; arm extends fully and rotates; hip shifts forward and returns to original position; leg shifts forward and returns to original position; foot returns to original position.
+hugging; head remains still; hand holds steady; arm maintains squeeze; hip stays firm; leg stands firm; foot remains planted.
+giving object; looks up slightly; hand returns to side; arm returns to side; hip returns to neutral position; leg returns to neutral position; foot remains stationary.
+touch pocket; head remains neutral; hand withdraws fully; arm returns to neutral; hip returns to neutral; leg returns to neutral; foot returns to neutral.
+shaking hands; head returns to neutral; hand releases other person's hand; arm returns to relaxed position; hip remains stationary; leg returns to neutral stance; foot returns to neutral position.
+walking towards; head steady gaze; hands swinging freely; arms swinging freely; hips swaying freely; legs striding freely; feet alternating with slight rotation
+walking apart; head is still looking forward; hand is swinging with slight pause; arm is swinging with slight pause; hip is shifting weight evenly; leg is taking final step apart; foot is landing with final step.
+put on headphone; head turns fully to ear; hand holds headphone in place; arm holds headphone steady; hip shifts forward fully; leg straightens; foot touches ground again.
+take off headphone; head looks up, eyes focus forward; hand pulls headphone off ear; arm retracts, relaxes; hip returns to neutral; leg returns to neutral; foot touches floor, stabilizes.
+shoot at basket; follows through with eyes; keeps hand in shooting position; arm follows through with the shot; shifts weight to front hip to maintain balance; extends front leg to recover; lands softly on foot.
+bounce ball; head follows ball trajectory; hand watches ball bounce; arm returns to starting position; hip returns to neutral; leg returns to starting position; foot lands softly.
+tennis bat swing; head is tracking; hand is releasing; arm is striking; hip is rotating; leg is extending forward; foot is landing.
+juggle table tennis ball; head tracks the final ball's descent; hand catches the last ball; arm absorbs the impact; hip returns to neutral position; leg straightens; foot stops moving
+hush; head returns to normal; hand drops; arm returns to side; hip returns to neutral; leg returns to neutral; foot returns to standing position.
+flick hair; head return normal; hand relax; arm relax; hip stay still; leg stay still; foot stay still.
+thumb up; head looks forward; hand lowers down; arm returns to neutral; hip doesn't move; leg doesn't move; foot doesn't move.
+thumb down; head is lowered; hand extends fully down; arm straightens fully; hip tilts forward; leg extends backward; foot touches the ground
+make OK sign; head turns up and forward; hand forms a complete OK sign; arm remains extended; hip remains at a neutral position; leg remains at a neutral position; foot remains at a neutral position.
+make victory sign; head looks up highest; hand holds fist high; arm holds steady; hip shifts forward fully; leg returns to ground; foot returns to ground.
+staple book; head looks up and away; hand holds staple gun still; arm keeps relaxed; hip returns to neutral position; leg keeps body stable; foot keeps body stable.
+counting money; head raising slightly; hand finishing count; arm relaxing; hip returning to neutral; leg standing still; foot grounded firmly.
+cutting nails; head relaxed, looking up; hand finishing clippings, releasing clippers; arm lowering, relaxing; hip rotating back to neutral; leg standing steady; foot flat on floor, weight evenly distributed.
+cutting paper; head looking up slightly; hand releasing scissors; arm holding still; hip returning to neutral; leg standing still; foot returning to flat.
+snap fingers; head remains still; hands return to original position; arm returns to side; hip remains stationary; leg remains stationary; foot remains stationary.
+open bottle; head remains still; hand releases the cap; arm returns to original position; hip returns to original position; leg returns to original position; foot remains stationary.
+sniff/smell; head moves up and down rapidly; hand moves object away from nose; arm returns to original position; hip remains stationary; leg remains stationary; foot remains stationary.
+Squat down; head looks down at floor; hands release grip; arms hang loose; hip parallel to ground; leg touches ground; foot flat on ground.
+toss a coin; head follows arm; hand releases coin; arm extends and rotates; hip tilts forward slightly; leg extends and swings forward; foot releases and coin flies through air.
+fold paper; head returns to normal; hand releases paper; arm returns to original position; hip returns to original position; leg returns to original position; foot returns to original position.
+ball up paper; head remains focused; hand lifts paper; arm extends fully; hip tilts forward; leg shifts weight back; foot lands softly
+play magic cube; head is still focused on the cube; hand is finishing the cube rotation; arm is ending the rotation; hip is swaying to a stop; leg is standing still; foot is standing still.
+apply cream on face; head looks up; hand moves away; arm returns; hip returns to normal; leg returns to normal; foot returns to normal.
+apply cream on hand; head looks up; hand finishes applying cream; arm returns to side; hip returns to neutral; leg none; foot none.
+put on bag; head nods slightly; hand secures bag; arm relaxes; hip returns to normal; leg stands still; foot stands still
+take off bag; head looks straight ahead; hand releases both handles; arm swings bag away; hip turns fully to face the new direction; leg finishes pivoting; foot lands on the ground.
+put object into bag; head relaxed; hand releasing; arm withdrawing; hip returning; leg standing; foot standing.
+take object out of bag; head looks up; hand holds object out; arm extends fully; hip returns to neutral; leg lowers; foot lands softly.
+open a box; head returns to neutral; hand opens the lid fully; arm returns to initial position; hip returns to initial position; leg lowers back down; foot stops pivoting.
+move heavy objects; head looks up; hand releases grip; arm straightens; hip returns to neutral; leg stops pushing; foot lifts off ground.
+shake fist; head slightly tilt; hand curl into fist and raise high; arm swing forward and backward rapidly; hip shift forward and backward; leg stay in place; foot stay in place.
+throw up cap/hat; head is still back; hand is releasing hat; arm is fully extended; hip is rotating fully; leg is fully lifted; foot is in mid-air.
+capitulate; head drops to ground; hand lies still; arm sags limp; hip lies flat; leg extends straight; foot relaxes.
+cross arms; head returns to neutral; hand releases hand; arm returns to sides; hip remains still; leg remains still; foot remains still.
+arm circles; head moves in sync; hand releases and regrasps quickly; arm swings in a wide arc; hip sways with rhythm; leg sways with rhythm; foot taps in rhythm and releases.
+arm swings to full extent; head turns to track arm; hand holds elbow; arm returns to starting position; hip rotates fully; leg returns to neutral; foot lands softly.
+run on the spot; head nodding rapidly; hands pumping wildly; arms swinging freely; hips rotating rapidly; legs lifting high; feet stomping vigorously.
+butt kicks; head looks forward; hand stabilizes; arm cools; hip extends leg; leg extends and then flexes; foot makes contact with target, then returns to ground.
+cross toe touch; head looks forward; hand releases toe; arm returns to side; hip rotates fully; leg returns to starting position; foot releases toe
+side kick; head turns fully; hand transfers weight fully; arm relaxes; hip extends fully; leg extends out fully; foot makes contact
+yawn; head returns to neutral; hand returns to relaxed position; arm returns to relaxed position; hip returns to neutral; leg relaxes and bends; foot returns to relaxed position.
+stretch oneself; tilts head back; raises hands; stretches arms; leans forward; straightens legs; foot points toes.
+blow nose; head returns to normal; hand drops tissue; arm relaxes; hip returns to neutral; leg relaxes; foot remains still.
+hit with object; head jerk; hand adjust; arm relax; hip stabilize; leg stand; foot firm
+wield knife; eyes follow knife's impact; hand releases grip; arm drops; hip returns to neutral; leg lands softly; foot settles back down.
+knock over; head returns forward; hand follows through; arm returns to side; hip returns to neutral; leg straightens; foot planted firmly.
+grab stuff; head maintains focus; hand holds object firmly; arm pulls object towards body; hip shifts forward fully; leg straightens; foot returns to ground.
+shoot with gun; head follows through with shot; hand releases grip on gun; arm lowers slowly; hip returns to neutral position; leg straightens knees; foot stays planted on ground
+step on foot; head is steady; hands are released; arms are relaxed; hips are level; legs are straight; feet are planted.
+high-five; head returns to normal; hand returns to side; arm returns to side; hip returns to normal; leg returns to normal; foot remains stationary
+cheers and drink; head returns to normal; hand removes glass from lips; arm lowers glass; hip returns to neutral; leg lowers slowly; foot touches ground.
+carry object; head looks ahead; hand holds steady; arm holds steady; hip rotates fully; leg stops moving; foot stands still.
+take a photo; head returns to neutral; hand releases camera grip; arm relaxes to the side; hip returns to neutral; leg returns to standing position; foot returns to the ground
+follow; turns head; waves hand; swings arm; rotates hip; takes final step; lands foot.
+whisper; head is close to listener; hand touches mouth; arm is extended; hip is forward; leg is forward; foot is on ground.
+exchange things; smiles and nods; releases hand; lowers arm to side; sways hips to a stop; stands still; stands still on both feet
+support somebody; head maintains position; hand holds firm; arm maintains support; hip stands upright; leg stands upright; foot stands firm.
+rock-paper-scissors; looks up slightly; slaps hand down; extends arm; rotates hip fully; shifts weight back to both legs; stamps foot.
