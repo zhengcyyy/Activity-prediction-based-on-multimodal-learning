@@ -1,7 +1,8 @@
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # Licensed under the MIT License.
 import sys
-sys.path.append(['../..'])
+#sys.path.append(['../..'])
+sys.path.append('/data/data1/zhengchaoyang/infogcn_GAP')
 import os
 import os.path as osp
 import numpy as np
@@ -10,6 +11,13 @@ import logging
 import h5py
 from sklearn.model_selection import train_test_split
 from utils import create_aligned_dataset
+
+
+
+# new add
+prediction_radio = 1.0
+
+
 
 root_path = './'
 stat_path = osp.join(root_path, 'statistics')
@@ -60,7 +68,15 @@ def seq_translation(skes_joints):
                 break
             i += 1
 
-        origin = np.copy(ske_joints[i, 3:6])  # new origin: joint-2
+
+        # modify
+        try:
+            origin = np.copy(ske_joints[i, 3:6])  # new origin: joint-2
+        except:
+            print(f"Warning: No valid frame found for skeleton {idx}. Using zero vector as origin.")
+            origin = np.zeros(3, dtype=np.float32)  # 默认原点为零向量
+
+
 
         for f in range(num_frames):
             if num_bodies == 1:
@@ -192,11 +208,11 @@ def split_dataset(skes_joints, label, performer, camera, evaluation, save_path):
     # h5file.close()
 
 
-def get_indices(performer, camera, evaluation='CS'):
+def get_indices(performer, camera, evaluation):
     test_indices = np.empty(0)
     train_indices = np.empty(0)
 
-    if evaluation == 'CS':  # Cross Subject (Subject IDs)
+    if evaluation == f'CS_{prediction_radio}':  # Cross Subject (Subject IDs)
         train_ids = [1,  2,  4,  5,  8,  9,  13, 14, 15, 16,
                      17, 18, 19, 25, 27, 28, 31, 34, 35, 38]
         test_ids = [3,  6,  7,  10, 11, 12, 20, 21, 22, 23,
@@ -241,8 +257,10 @@ if __name__ == '__main__':
 
     skes_joints = align_frames(skes_joints, frames_cnt)  # aligned to the same frame length
 
-    evaluations = ['CS', 'CV']
+
+    # modify
+    evaluations = [f'CS_{prediction_radio}', f'CV_{prediction_radio}']
     for evaluation in evaluations:
         split_dataset(skes_joints, label, performer, camera, evaluation, save_path)
 
-    create_aligned_dataset(file_list=['NTU60_CS.npz', 'NTU60_CV.npz'])
+    create_aligned_dataset(file_list=[f'NTU60_CS_{prediction_radio}.npz', f'NTU60_CV_{prediction_radio}.npz'])

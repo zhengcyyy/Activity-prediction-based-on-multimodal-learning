@@ -2,6 +2,12 @@
 # Licensed under the MIT License.
 import os
 import os.path as osp
+import sys
+sys.path.append(['../..'])
+sys.path.append('/data/data1/zhengchaoyang/infogcn_GAP/data/ntu60_20%')
+sys.path.append(os.path.dirname(sys.argv[0]))
+sys.path.append(os.getcwd())
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 import pickle
 import logging
@@ -9,6 +15,10 @@ import logging
 root_path = './'
 raw_data_file = osp.join(root_path, 'raw_data', 'raw_skes_data.pkl')
 save_path = osp.join(root_path, 'denoised_data')
+
+# new add 
+prediction_ratio = 1.0
+
 
 if not osp.exists(save_path):
     os.mkdir(save_path)
@@ -407,6 +417,11 @@ def get_raw_denoised_data():
             joints, colors = remove_missing_frames(ske_name, joints, colors)
             num_frames = joints.shape[0]  # Update
             # Visualize selected actors' skeletons on RGB videos.
+
+        # new add
+        num_frames = round(joints.shape[0] * prediction_ratio)
+        joints = joints[0: num_frames,]
+        colors = colors[0: num_frames,]
 
         raw_denoised_joints.append(joints)
         raw_denoised_colors.append(colors)
